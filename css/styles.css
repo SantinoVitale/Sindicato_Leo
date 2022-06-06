@@ -101,9 +101,9 @@ p{
     max-width: 100%;
     margin:auto;
 }
-.menu li a{
+.menu-li-a{
     text-decoration: none;
-    color: white;
+    color: white !important;
     padding: 20px;
     display: block;
 }
@@ -113,7 +113,7 @@ p{
     align-self: center;
 
 }
-.menu li a:hover{
+.menu-li-a:hover{
     background: #ef8354;
 }
 
